@@ -1543,6 +1543,17 @@
         "runtime": {
           "lib/uap10.0/Microsoft.Graphics.Canvas.winmd": {}
         }
+      },
+      "Q.IoT.Devices.Display/1.0.0": {
+        "dependencies": {
+          "Win2D.uwp": "[1.10.0, )"
+        },
+        "compile": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        },
+        "runtime": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        }
       }
     },
     "UAP,Version=v10.0/win10-arm": {
@@ -3179,6 +3190,17 @@
         "native": {
           "runtimes/win10-arm/native/Microsoft.Graphics.Canvas.dll": {}
         }
+      },
+      "Q.IoT.Devices.Display/1.0.0": {
+        "dependencies": {
+          "Win2D.uwp": "[1.10.0, )"
+        },
+        "compile": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        },
+        "runtime": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        }
       }
     },
     "UAP,Version=v10.0/win10-arm-aot": {
@@ -4786,6 +4808,17 @@
         },
         "native": {
           "runtimes/win10-arm/native/Microsoft.Graphics.Canvas.dll": {}
+        }
+      },
+      "Q.IoT.Devices.Display/1.0.0": {
+        "dependencies": {
+          "Win2D.uwp": "[1.10.0, )"
+        },
+        "compile": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        },
+        "runtime": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
         }
       }
     },
@@ -6428,6 +6461,17 @@
         "native": {
           "runtimes/win10-x64/native/Microsoft.Graphics.Canvas.dll": {}
         }
+      },
+      "Q.IoT.Devices.Display/1.0.0": {
+        "dependencies": {
+          "Win2D.uwp": "[1.10.0, )"
+        },
+        "compile": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        },
+        "runtime": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        }
       }
     },
     "UAP,Version=v10.0/win10-x64-aot": {
@@ -8035,6 +8079,17 @@
         },
         "native": {
           "runtimes/win10-x64/native/Microsoft.Graphics.Canvas.dll": {}
+        }
+      },
+      "Q.IoT.Devices.Display/1.0.0": {
+        "dependencies": {
+          "Win2D.uwp": "[1.10.0, )"
+        },
+        "compile": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        },
+        "runtime": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
         }
       }
     },
@@ -9677,6 +9732,17 @@
         "native": {
           "runtimes/win10-x86/native/Microsoft.Graphics.Canvas.dll": {}
         }
+      },
+      "Q.IoT.Devices.Display/1.0.0": {
+        "dependencies": {
+          "Win2D.uwp": "[1.10.0, )"
+        },
+        "compile": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        },
+        "runtime": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        }
       }
     },
     "UAP,Version=v10.0/win10-x86-aot": {
@@ -11284,6 +11350,17 @@
         },
         "native": {
           "runtimes/win10-x86/native/Microsoft.Graphics.Canvas.dll": {}
+        }
+      },
+      "Q.IoT.Devices.Display/1.0.0": {
+        "dependencies": {
+          "Win2D.uwp": "[1.10.0, )"
+        },
+        "compile": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        },
+        "runtime": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
         }
       }
     }
@@ -14655,6 +14732,17 @@
         "runtimes/win10-x86/native/Microsoft.Graphics.Canvas.dll",
         "Win2d.githash.txt",
         "Win2D.uwp.nuspec"
+      ]
+    },
+    "Q.IoT.Devices.Display/1.0.0": {
+      "sha512": "A+NFypIM3XlDA1Lm2at5Gkhatd2sewC/GGnJiCXdzPWzuVRYvc+q9vqrB9dPsI7k+p4A3nBq1K1dR+/6+19xeA==",
+      "type": "Package",
+      "files": [
+        "[Content_Types].xml",
+        "_rels/.rels",
+        "lib/.NETCore50/Q.IoT.Devices.Display.dll",
+        "package/services/metadata/core-properties/92c3a251cc6d4f828d8e2a96166a0579.psmdcp",
+        "Q.IoT.Devices.Display.nuspec"
       ]
     }
   },

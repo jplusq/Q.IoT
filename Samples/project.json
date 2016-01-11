@@ -1,6 +1,7 @@
 ﻿{
   "dependencies": {
     "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0",
+    "Q.IoT.Devices.Display": "1.0.0",
     "Win2D.uwp": "1.11.0"
   },
   "frameworks": {

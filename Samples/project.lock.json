@@ -201,6 +201,17 @@
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
         }
       },
+      "Q.IoT.Devices.Display/1.0.0": {
+        "dependencies": {
+          "Win2D.uwp": "[1.10.0, )"
+        },
+        "compile": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        },
+        "runtime": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        }
+      },
       "System.AppContext/4.0.0": {
         "dependencies": {
           "System.Collections": "[4.0.0, )",
@@ -1785,6 +1796,17 @@
         },
         "runtime": {
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
+        }
+      },
+      "Q.IoT.Devices.Display/1.0.0": {
+        "dependencies": {
+          "Win2D.uwp": "[1.10.0, )"
+        },
+        "compile": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        },
+        "runtime": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
         }
       },
       "System.AppContext/4.0.0": {
@@ -3407,6 +3429,17 @@
         },
         "runtime": {
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
+        }
+      },
+      "Q.IoT.Devices.Display/1.0.0": {
+        "dependencies": {
+          "Win2D.uwp": "[1.10.0, )"
+        },
+        "compile": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        },
+        "runtime": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
         }
       },
       "System.AppContext/4.0.0": {
@@ -5036,6 +5069,17 @@
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
         }
       },
+      "Q.IoT.Devices.Display/1.0.0": {
+        "dependencies": {
+          "Win2D.uwp": "[1.10.0, )"
+        },
+        "compile": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        },
+        "runtime": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        }
+      },
       "System.AppContext/4.0.0": {
         "dependencies": {
           "System.Collections": "[4.0.0, )",
@@ -6656,6 +6700,17 @@
         },
         "runtime": {
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
+        }
+      },
+      "Q.IoT.Devices.Display/1.0.0": {
+        "dependencies": {
+          "Win2D.uwp": "[1.10.0, )"
+        },
+        "compile": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        },
+        "runtime": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
         }
       },
       "System.AppContext/4.0.0": {
@@ -8285,6 +8340,17 @@
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
         }
       },
+      "Q.IoT.Devices.Display/1.0.0": {
+        "dependencies": {
+          "Win2D.uwp": "[1.10.0, )"
+        },
+        "compile": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        },
+        "runtime": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        }
+      },
       "System.AppContext/4.0.0": {
         "dependencies": {
           "System.Collections": "[4.0.0, )",
@@ -9905,6 +9971,17 @@
         },
         "runtime": {
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
+        }
+      },
+      "Q.IoT.Devices.Display/1.0.0": {
+        "dependencies": {
+          "Win2D.uwp": "[1.10.0, )"
+        },
+        "compile": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
+        },
+        "runtime": {
+          "lib/.NETCore50/Q.IoT.Devices.Display.dll": {}
         }
       },
       "System.AppContext/4.0.0": {
@@ -11940,6 +12017,17 @@
         "ref/net46/Microsoft.Win32.Primitives.dll",
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._"
+      ]
+    },
+    "Q.IoT.Devices.Display/1.0.0": {
+      "sha512": "A+NFypIM3XlDA1Lm2at5Gkhatd2sewC/GGnJiCXdzPWzuVRYvc+q9vqrB9dPsI7k+p4A3nBq1K1dR+/6+19xeA==",
+      "type": "Package",
+      "files": [
+        "[Content_Types].xml",
+        "_rels/.rels",
+        "lib/.NETCore50/Q.IoT.Devices.Display.dll",
+        "package/services/metadata/core-properties/92c3a251cc6d4f828d8e2a96166a0579.psmdcp",
+        "Q.IoT.Devices.Display.nuspec"
       ]
     },
     "System.AppContext/4.0.0": {
@@ -14661,6 +14749,7 @@
   "projectFileDependencyGroups": {
     "": [
       "Microsoft.NETCore.UniversalWindowsPlatform >= 5.0.0",
+      "Q.IoT.Devices.Display >= 1.0.0",
       "Win2D.uwp >= 1.11.0"
     ],
     "UAP,Version=v10.0": []

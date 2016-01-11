@@ -131,12 +131,6 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Devices.Display\Q.IoT.Devices.Display.csproj">
-      <Project>{9004aefa-66f9-454e-8235-96bdf4460178}</Project>
-      <Name>Q.IoT.Devices.Display</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <SDKReference Include="WindowsIoT, Version=10.0.10586.0">
       <Name>Windows IoT Extensions for the UWP</Name>
     </SDKReference>
