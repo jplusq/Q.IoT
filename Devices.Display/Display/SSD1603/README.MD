@@ -45,6 +45,6 @@ SSD1603 display = new SSD1603(cfg_128_64, device, pinDataCmd, pinReset);
 https://github.com/q-life/Q.IoT/blob/master/Samples/StartupTask.cs
 
 ###References
-https://github.com/adafruit/Adafruit_SSD1306
-https://github.com/olikraus/u8glib
+https://github.com/adafruit/Adafruit_SSD1306  
+https://github.com/olikraus/u8glib  
 https://github.com/sely2k/WindowsIot-SPiDisplay-SSD1306
