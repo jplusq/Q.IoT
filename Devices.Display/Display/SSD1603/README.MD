@@ -42,7 +42,6 @@ SSD1603 display = new SSD1603(cfg_128_64, device, pinDataCmd, pinReset);
 ```
 
 ###Sample
-![Sapmle](sample.jpg)
 https://github.com/q-life/Q.IoT/blob/master/Samples/StartupTask.cs
 
 ###References
